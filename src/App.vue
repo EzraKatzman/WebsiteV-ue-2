@@ -1,28 +1,35 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="flex flex-col min-h-screen bg-shattered bg-fixed">
+    <Navbar/>
+    <div class="flex-grow">
+      <Bio/>
+      
+    </div>
+    <Experiencedrop/>
+    <Projectdrop/>
+    <Bottombanner/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from './components/Navbar'
+import Projectdrop from './components/Projectdrop'
+import Experiencedrop from './components/Experiencedrop'
+import Bottombanner from './components/Bottombanner'
+import Bio from './components/Bio'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Navbar,
+    Projectdrop,
+    Experiencedrop,
+    Bottombanner,
+    Bio
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  @import "C:/Users/Ezkat/Desktop/Side Projects/WebsiteRedux/website/src/assets/css/tailwind.css";
 </style>
