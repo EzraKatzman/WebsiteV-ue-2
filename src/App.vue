@@ -3,10 +3,9 @@
     <Navbar/>
     <div class="flex-grow">
       <Bio/>
-      
     </div>
-    <Experiencedrop/>
-    <Projectdrop/>
+    <Experiencedrop class="md:hidden"/>
+    <Projectdrop class="md:hidden"/>
     <Bottombanner/>
   </div>
 </template>
