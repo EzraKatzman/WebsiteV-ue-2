@@ -1,4 +1,5 @@
-# website
+# Personal Website
+A portfolio website for me to share past projects and previous work experience, in a way where I can express myself more creatively than just a resume
 
 ## Project setup
 ```
