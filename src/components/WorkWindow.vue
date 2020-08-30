@@ -1,6 +1,7 @@
 <template>
-    <div class="m-2 p-2 bg-gray-100 rounded-lg shadow-lg border border-orange-400" id='workexp'>
+    <div class="m-2 p-2 bg-gray-100 rounded-lg shadow-lg border-2 border-orange-400" id='workexp'>
         <h2 class="p-2 m-2 text-xl text-gray-800 font-bold text-center">Work Experience</h2>
+        <hr class="mx-6">
         <div class="m-2 p-2">
             <h2 class="font-semibold text-xl text-gray-800 ml-2">Place of work: </h2>
             <p class="mx-2 text-gray-600 uppercase font-semibold tracking-wide text-xs">Start date - end date</p>

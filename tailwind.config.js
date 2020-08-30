@@ -23,9 +23,9 @@ module.exports = {
       maxWidth: {
         'xxs' : "16rem",
       },
-      backgroundImage: {
+      backgroundImage: theme => ({
         'shattered': 'url(/assets/images/shattered.png)',
-      },
+      }),
     },
   },
   variants: {},
