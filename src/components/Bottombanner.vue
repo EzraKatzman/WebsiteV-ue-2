@@ -1,6 +1,7 @@
 <template>
     <div>
         <footer class="sticky bg-gradient-to-r from-orange-300 to-orange-400 sm:flex sm:justify-between sm:items-center text-white text-center sm:px-4 sm:py-3 border-t-2 border-orange-300">
+            <p class="text-base font-semibold hidden md:block">&#169; 2020 Azriel Katzman</p>
             <p class="text-xl xl:text-2xl m-1">
                 &bull;
                 <a href="" target="_blank"><svg viewBox="0 0 20 20" fill="currentColor" class="inline w-5 h-5 hover:text-gray-900">
@@ -14,7 +15,7 @@
                 <a href="https://github.com/EzraKatzman/WebsiteV2" target="_blank"><svg viewBox="0 0 20 20" fill="currentColor" class="inline w-5 h-5 hover:text-gray-900">
                     <path d="M5.719 14.75a.997.997 0 01-.664-.252L-.005 10l5.341-4.748a1 1 0 011.328 1.495L3.005 10l3.378 3.002a1 1 0 01-.664 1.748zm8.945-.002L20.005 10l-5.06-4.498a.999.999 0 10-1.328 1.495L16.995 10l-3.659 3.252a1 1 0 001.328 1.496zm-4.678 1.417l2-12a1 1 0 10-1.972-.329l-2 12a1 1 0 101.972.329z"/></svg></a>
                 &bull;</p>
-            <p class="text-base">&#169; 2020 Azriel Katzman</p>
+            <p class="text-base font-semibold md:hidden">&#169; 2020 Azriel Katzman</p>
         </footer>
     </div>
 </template>

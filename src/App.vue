@@ -2,10 +2,14 @@
   <div class="flex flex-col min-h-screen bg-shattered bg-fixed">
     <Navbar/>
     <div class="flex-grow">
-      <Bio/>
+      <div class="lg:grid lg:grid-cols-5">
+        <Bio/>
+        <WorkWindow class="hidden lg:block col-span-2"/>
+        <ProjectWindow class="hidden lg:block col-span-2"/>
+      </div>
     </div>
-    <Experiencedrop class="md:hidden"/>
-    <Projectdrop class="md:hidden"/>
+    <Experiencedrop class="lg:hidden"/>
+    <Projectdrop class="lg:hidden"/>
     <Bottombanner/>
   </div>
 </template>
@@ -16,6 +20,8 @@ import Projectdrop from './components/Projectdrop'
 import Experiencedrop from './components/Experiencedrop'
 import Bottombanner from './components/Bottombanner'
 import Bio from './components/Bio'
+import WorkWindow from './components/WorkWindow'
+import ProjectWindow from './components/ProjectWindow'
 
 export default {
   name: 'App',
@@ -24,7 +30,9 @@ export default {
     Projectdrop,
     Experiencedrop,
     Bottombanner,
-    Bio
+    Bio,
+    WorkWindow,
+    ProjectWindow
   }
 }
 </script>
