@@ -1,5 +1,5 @@
 <template>
-    <div class="m-2 p-2 bg-gray-100 rounded-lg shadow-lg border border-orange-400">
+    <div class="m-2 p-2 bg-gray-100 rounded-lg shadow-lg border border-orange-400" id='projects'>
         <h2 class="p-2 m-2 text-xl text-gray-800 font-bold text-center">Personal Projects</h2>
         <div class="m-2 p-2">
             <h2 class="font-semibold text-xl text-gray-800 ml-2">Truth Table Generator: </h2>
@@ -22,7 +22,7 @@
                 <span class="text-gray-600 uppercase font-semibold tracking-wide text-xs">(Work in progress)</span> </p>
             <p class="m-2"> Jackbot is a bot for the discord app, with the goal of emulating casino games such as crash, slots, blackjack, 
                 dice games, and more. It also has a working level system, multiplayer interaction, and a functioning economy.</p>
-            <a href="" target="_blank" class="btn inline-block">View Code</a>
+            <a href="https://github.com/EzraKatzman/Jackbot" target="_blank" class="btn inline-block">View Code</a>
         </div>
         <hr class="m-2">
         <div class="m-2 p-2">

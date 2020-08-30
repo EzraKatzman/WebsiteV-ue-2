@@ -1,11 +1,11 @@
 <template>
-  <div class="flex flex-col min-h-screen bg-shattered bg-fixed">
-    <Navbar/>
+  <div class="flex flex-col min-h-screen bg-gray-200 bg-shattered bg-fixed">
+    <Navbar class="sticky top-0"/>
     <div class="flex-grow">
-      <div class="lg:grid lg:grid-cols-5">
-        <Bio/>
-        <WorkWindow class="hidden lg:block col-span-2"/>
-        <ProjectWindow class="hidden lg:block col-span-2"/>
+      <div class="xl:grid xl:grid-cols-5">
+        <Bio class="lg:m-4"/>
+        <WorkWindow class="hidden lg:block col-span-2 lg:m-4"/>
+        <ProjectWindow class="hidden lg:block col-span-2 lg:m-4"/>
       </div>
     </div>
     <Experiencedrop class="lg:hidden"/>

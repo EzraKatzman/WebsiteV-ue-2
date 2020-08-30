@@ -25,7 +25,7 @@
                     <span class="text-gray-600 uppercase font-semibold tracking-wide text-xs">(Work in progress)</span> </p>
                 <p class="m-2"> Jackbot is a bot for the discord app, with the goal of emulating casino games such as crash, slots, blackjack, 
                     dice games, and more. It also has a working level system, multiplayer interaction, and a functioning economy.</p>
-                <a href="" target="_blank" class="btn inline-block">View Code</a>
+                <a href="https://github.com/EzraKatzman/Jackbot" target="_blank" class="btn inline-block">View Code</a>
             </div>
             <hr class="m-2">
             <div class="m-2 p-2">

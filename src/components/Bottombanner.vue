@@ -1,8 +1,8 @@
 <template>
     <div>
         <footer class="sticky bg-gradient-to-r from-orange-300 to-orange-400 sm:flex sm:justify-between sm:items-center text-white text-center sm:px-4 sm:py-3 border-t-2 border-orange-300">
-            <p class="text-base font-semibold hidden md:block">&#169; 2020 Azriel Katzman</p>
-            <p class="text-xl xl:text-2xl m-1">
+            <p class="text-base text-orange-600 font-semibold hidden md:block">&#169; 2020 Azriel Katzman</p>
+            <p class="text-xl xl:text-2xl m-1 xl:m-0">
                 &bull;
                 <a href="" target="_blank"><svg viewBox="0 0 20 20" fill="currentColor" class="inline w-5 h-5 hover:text-gray-900">
                     <path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z" clip-rule="evenodd"></path></svg></a>
