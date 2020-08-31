@@ -4,12 +4,12 @@
     <div class="flex-grow">
       <div class="xl:grid xl:grid-cols-5">
         <Bio class="lg:m-4"/>
-        <WorkWindow class="hidden lg:block col-span-2 lg:m-4"/>
-        <ProjectWindow class="hidden lg:block col-span-2 lg:m-4"/>
+        <WorkWindow class="hidden md:block col-span-2 lg:m-4"/>
+        <ProjectWindow class="hidden md:block col-span-2 lg:m-4"/>
       </div>
     </div>
-    <Experiencedrop class="lg:hidden"/>
-    <Projectdrop class="lg:hidden"/>
+    <Experiencedrop class="md:hidden"/>
+    <Projectdrop class="md:hidden"/>
     <Bottombanner/>
   </div>
 </template>

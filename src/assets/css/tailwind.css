@@ -2,11 +2,11 @@
 @tailwind components;
 
 .btn {
-    @apply bg-gray-100 border border-orange-400 text-orange-500 rounded-lg p-2 m-2 shadow-md;
+    @apply bg-gray-100 border border-teal-400 text-teal-500 rounded-lg p-2 m-2 shadow-md;
 }
 
 .btn:hover {
-    @apply bg-orange-400 text-gray-100 shadow-xl;
+    @apply bg-teal-400 text-gray-100 shadow-xl;
 }
 
 .btn:focus {
@@ -18,7 +18,7 @@
 }
 
 .navtab {
-    @apply -mt-px relative inline-flex items-center px-4 py-2 border-2 border-orange-400 bg-orange-400 text-sm leading-5 font-medium text-orange-700;
+    @apply -mt-px relative inline-flex items-center px-4 py-2 border-2 border-teal-400 bg-teal-400 text-sm leading-5 font-medium text-teal-700;
 }
 
 .navtab:hover {
