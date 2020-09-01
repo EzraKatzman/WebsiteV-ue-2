@@ -2,7 +2,7 @@
 @tailwind components;
 
 .btn {
-    @apply bg-gray-100 border border-teal-400 text-teal-500 rounded-lg p-2 m-2 shadow-md;
+    @apply bg-gray-100 border border-teal-400 text-teal-500 font-semibold rounded-lg p-2 m-2 shadow-md;
 }
 
 .btn:hover {
