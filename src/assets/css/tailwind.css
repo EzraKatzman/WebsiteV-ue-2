@@ -29,4 +29,16 @@
     @apply z-10 outline-none shadow-outline;
 }
 
+.btn2 {
+    @apply border-gray-100 bg-gray-100 rounded-md shadow-md;
+}
+
+.btn2:hover {
+    @apply bg-gray-200 text-teal-800 shadow-sm;
+}
+
+.btn2:focus {
+    @apply outline-none shadow-outline;
+}
+
 @tailwind utilities;
