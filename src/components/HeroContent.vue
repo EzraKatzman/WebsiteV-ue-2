@@ -1,5 +1,5 @@
 <template>
-    <div class="m-2 p-2 text-center text-teal-400 font-medium md:border-2 md:border-teal-400 md:rounded-lg lg:shadow-2xl md:bg-gray-100">
+   <div class="m-2 p-2 text-center text-teal-400 font-medium md:border-2 md:border-teal-400 md:rounded-lg lg:shadow-2xl md:bg-gray-100">
         <div class="md:flex xl:flex-col">
             <img src="@\assets\images\shattered.png" alt="Please appear" class="m-2 inline-block h-24 w-24 md:h-32 md:w-32 lg:w-40 lg:h-40 xl:self-center rounded-full">
             <div class="md:text-left lg:m-2">
