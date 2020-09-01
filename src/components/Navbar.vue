@@ -1,8 +1,8 @@
 <template>
-    <header class="bg-gradient-to-l from-teal-300 to-teal-400 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-b-2 border-teal-300">
+    <header class="bg-gradient-to-l from-teal-300 to-teal-500 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-b-2 border-teal-300">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div class="text-white">
-        <h2 class="font-semibold">Azriel Katzman</h2>
+        <h2 class="font-semibold"><a href="#">Home</a></h2>
       </div>
       <div class="sm:hidden">
         <button @click="isOpen = !isOpen" type="button" class="hidden md:block text-teal-700 hover:text-white focus:text-white focus:outline-none">

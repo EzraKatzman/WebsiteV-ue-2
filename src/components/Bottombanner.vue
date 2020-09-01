@@ -1,6 +1,6 @@
 <template>
     <div>
-        <footer class="sticky bg-gradient-to-r from-teal-300 to-teal-400 sm:flex sm:justify-between sm:items-center text-white text-center sm:px-4 sm:py-3 border-t-2 border-teal-300">
+        <footer class="sticky bg-gradient-to-r from-teal-300 to-teal-500 sm:flex sm:justify-between sm:items-center text-white text-center sm:px-4 sm:py-3 border-t-2 border-teal-300">
             <p class="text-base text-teal-600 font-semibold hidden md:block">&#169; 2020 Azriel Katzman</p>
             <p class="text-xl xl:text-2xl m-1 xl:m-0 align-text-top">
                 &bull;

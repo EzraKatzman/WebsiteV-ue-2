@@ -12,7 +12,7 @@
                     <span class="badge md:mr-1 bg-purple-600">Bootstrap</span></p>
                 <p class="m-2">A project made for easily graphing truth tables in propositional logic. Users can insert their logical statements
                     (with proper formatting enforced by the system), and see the resulting table with the click of a button.</p>
-                <a href="https://github.com/EzraKatzman/Truth-Table-Generator" target="_blank" class="btn inline-block">View Code</a><a href="https://ezrakatzman.github.io/Truth-Table-Generator/" target="_blank" class="btn inline-block">View Site</a>
+                <a href="https://github.com/EzraKatzman/Truth-Table-Generator" target="_blank" class="btn p-2 m-2 inline-block">View Code</a><a href="https://ezrakatzman.github.io/Truth-Table-Generator/" target="_blank" class="btn p-2 m-2 inline-block">View Site</a>
             <hr class="m-2">
             </div>
             
@@ -25,7 +25,7 @@
                     <span class="text-gray-600 uppercase font-semibold tracking-wide text-xs">(Work in progress)</span> </p>
                 <p class="m-2"> Jackbot is a bot for the discord app, with the goal of emulating casino games such as crash, slots, blackjack, 
                     dice games, and more. It also has a working level system, multiplayer interaction, and a functioning economy.</p>
-                <a href="https://github.com/EzraKatzman/Jackbot" target="_blank" class="btn inline-block">View Code</a>
+                <a href="https://github.com/EzraKatzman/Jackbot" target="_blank" class="btn p-2 m-2 inline-block">View Code</a>
             <hr class="m-2">
             </div>
             
@@ -38,7 +38,7 @@
                 <p class="m-2">The Idea Vault is a script I can run from my phone (via SSH into a raspberry pi) where I can insert project ideas 
                     directly in to my project scrum board on Notion, and make a Github repository for it all with only a few arguments.
                 </p>
-                <a href="https://github.com/EzraKatzman/Idea-Vault" target="_blank" class="btn inline-block">View Code</a>
+                <a href="https://github.com/EzraKatzman/Idea-Vault" target="_blank" class="btn p-2 m-2 inline-block">View Code</a>
             </div>
         </div>
     </div>
