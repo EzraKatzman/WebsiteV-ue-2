@@ -1,5 +1,6 @@
 <template>
   <div class="flex flex-col min-h-screen bg-gray-200 bg-shattered bg-fixed">
+    <Hero class="hidden lg:block"/>
     <Navbar class="sticky top-0"/>
     <div class="flex-grow">
       <div class="xl:grid xl:grid-cols-5">
@@ -15,6 +16,7 @@
 </template>
 
 <script>
+import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Projectdrop from './components/Projectdrop'
 import Experiencedrop from './components/Experiencedrop'
@@ -26,6 +28,7 @@ import ProjectWindow from './components/ProjectWindow'
 export default {
   name: 'App',
   components: {
+    Hero,
     Navbar,
     Projectdrop,
     Experiencedrop,
