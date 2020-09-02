@@ -1,9 +1,11 @@
 <template>
   <div class="flex flex-col min-h-screen bg-teal-300">
     <Navbar class="sticky top-0"/>
-    
+
     <div class="hidden lg:block h-screen w-full text-center ">
-      <HeroContent class="inline-block transform translate-y-full w-half"/>
+      <!-- Element to trick the browser in to centering the HeroContent -->
+      <span class="hidden sm:inline-block sm:align-middle sm:h-screen"></span>&#8203;
+      <HeroContent class="inline-block"/>
     </div>
     
     <div class="flex-grow">
