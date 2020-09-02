@@ -4,7 +4,7 @@
             <img src="@\assets\images\shattered.png" alt="Please appear" class="m-2 inline-block h-24 w-24 md:h-32 md:w-32 lg:w-40 lg:h-40 xl:self-center rounded-full">
             <div class="md:text-left lg:m-2">
                 <h2 class="p-2 text-xl text-gray-700">Azriel Katzman</h2>
-                <p class="p-2 lg:text-lg text-gray-900 font-normal">I'm a Software Developer who loves creating programs that solve problems and look good doing it.</p>
+                <p class="p-2 lg:text-lg text-gray-900 font-normal">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus distinctio sed temporibus laborum, error provident, obcaecati quibusdam veniam quo aliquam praesentium. Modi corrupti accusantium assumenda ad quia veritatis possimus quibusdam.</p>
                 <div>
                     <a href="" target="_blank" class=""><svg viewBox="0 0 20 20" fill="currentColor" class="inline w-8 h-8 mb-1 ml-1 hover:text-teal-700">
                         <path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z" clip-rule="evenodd"></path></svg></a>
