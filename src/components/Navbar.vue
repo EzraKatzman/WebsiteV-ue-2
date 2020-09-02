@@ -16,7 +16,7 @@
     <nav :class="isOpen ? 'block' : 'hidden'" class="px-2 pt-2 pb-4 md:flex sm:p-0">
       <a href="#workexp" class="block xl:hidden px-2 py-1 text-teal-700 font-semibold  hover:text-white focus:text-white">Experience</a>
       <a href="#projects" class="mt-1 block xl:hidden px-2 py-1 text-teal-700 font-semibold sm:mt-0 sm:ml-2 hover:text-white focus:text-white">Projects</a>
-      <a href="mailto:ezkatzman@gmail.com" class="mt-1 block px-2 py-1 text-teal-700 font-semibold sm:mt-0 sm:ml-2 btn2">Contact</a>
+      <a href="mailto:ezkatzman@gmail.com" class="mt-1 block px-2 py-1 text-teal-700 font-semibold sm:mt-0 sm:ml-2 btn2">Contact Me</a>
     </nav>
   </header>
 </template>

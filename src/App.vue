@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col min-h-screen bg-gray-100 md:bg-gradient-to-r from-teal-200 to-teal-400">
+  <div class="flex flex-col min-h-screen bg-gray-100 md:bg-gradient-to-r from-teal-200 to-gray-300">
     <Navbar class="sticky top-0"/>
 
     <div class="hidden lg:block h-screen w-full text-center ">

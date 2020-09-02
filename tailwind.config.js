@@ -29,6 +29,9 @@ module.exports = {
       backgroundImage: theme => ({
         'shattered': 'url(/assets/images/shattered.png)',
       }),
+      listStyleType: {
+        'circle': 'circle',
+      },
     },
   },
   variants: {},

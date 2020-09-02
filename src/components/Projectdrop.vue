@@ -43,8 +43,8 @@
             <div class="m-2 p-2">
                 <h2 class="font-semibold text-xl text-gray-800 ml-2">Enigma Machine: </h2>
                 <p class="mx-2 align-baseline">
-                    <span class="badge md:mr-1 bg-yellow-800">Java</span>
-                    <span class="text-gray-600 uppercase font-semibold tracking-wide text-xs block sm:inline">(Work in progress)</span></p>
+                    <span class="badge sm:mr-1 bg-yellow-800">Java</span>
+                    <span class="text-gray-600 uppercase font-semibold tracking-wide text-xs block sm:inline">(Early Stages)</span></p>
                 <p class="m-2">A modern recreation of the Enigma Machine, one of the most famous encryption devices to date. Users can encrypt and decrypt messages, 
                     share them with friends, and get a greater understanding of how the ciphers work. 
                 </p>
