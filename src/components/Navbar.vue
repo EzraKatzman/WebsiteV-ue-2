@@ -1,5 +1,5 @@
 <template>
-    <header class="bg-gradient-to-l from-teal-300 to-teal-500 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-t-2 border-b-2 border-gray-300">
+    <header class="bg-teal-500 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 border-t-2 border-b-2 border-gray-300">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div class="text-white">
         <h2 class="font-semibold"><a href="#">Home</a></h2>

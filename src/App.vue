@@ -1,9 +1,11 @@
 <template>
-  <div class="flex flex-col min-h-screen bg-gray-200 bg-shattered bg-fixed">
-    <div class="hidden lg:block h-screen w-full bg-gradient-to-r from-teal-300 to-teal-500">
-      <Bio class=""/>
-    </div>
+  <div class="flex flex-col min-h-screen bg-teal-300">
     <Navbar class="sticky top-0"/>
+    
+    <div class="hidden lg:block h-screen w-full text-center ">
+      <HeroContent class="inline-block transform translate-y-full w-half"/>
+    </div>
+    
     <div class="flex-grow">
       <div class="xl:grid xl:grid-cols-4">
         <Bio class="lg:hidden"/>
@@ -25,6 +27,7 @@ import Bottombanner from './components/Bottombanner'
 import Bio from './components/Bio'
 import WorkWindow from './components/WorkWindow'
 import ProjectWindow from './components/ProjectWindow'
+import HeroContent from './components/HeroContent'
 
 export default {
   name: 'App',
@@ -35,7 +38,8 @@ export default {
     Bottombanner,
     Bio,
     WorkWindow,
-    ProjectWindow
+    ProjectWindow,
+    HeroContent
   }
 }
 </script>

@@ -20,6 +20,9 @@ module.exports = {
       height: {
         'half': "50%",
       },
+      width: {
+        'half': "50%",
+      },
       maxWidth: {
         'xxs' : "16rem",
       },

@@ -1,5 +1,5 @@
 <template>
-    <div class="m-2 p-2 bg-gray-100 rounded-lg shadow-2xl border-2 border-teal-400" id='projects'>
+    <div class="m-2 p-2 bg-gray-100 shadow-2xl" id='projects'>
         <h2 class="p-2 m-2 text-xl text-gray-800 font-bold text-center">Personal Projects</h2>
         <hr class="mx-6">
         <div class="grid grid-cols-2">
