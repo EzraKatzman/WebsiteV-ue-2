@@ -9,9 +9,9 @@
                 <p class="mx-2 text-gray-600 uppercase font-semibold tracking-wide text-xs"> <span class="text-teal-400">Software Developer </span>&middot; May 2020 - September 2020</p>
                 <p class="m-2">
                     <ul class="list-disc list-inside m-2">
-                        <li>Converted modules to a more modern UI using Apache Wicket</li>
-                        <li>Participated in daily standup meetings</li>
-                        <li>Collaborated with other team members</li>
+                        <li>Converted depreciated Apache Wicket modules to a modern UI</li>
+                        <li>Refactored old Java classes with new ones, compassing the Object Oriented paradigm and best practises</li>
+                        <li>Readied software for transition from Wicket to React</li>
                     </ul>
                 </p>
             </div>
