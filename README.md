@@ -8,8 +8,10 @@ First iteration of my portfolio website
 <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="Vue JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />  
   
+<br />
+<br />
 
-## Project setup
+# Project setup
 ### Install
 ```
 npm install
