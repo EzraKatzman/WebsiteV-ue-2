@@ -11,6 +11,8 @@ First iteration of my portfolio website
 <br />
 <br />
 
+---
+
 # Project setup
 ### Install
 ```
