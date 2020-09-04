@@ -4,7 +4,7 @@
             <p class="text-base text-gray-100 font-semibold hidden md:block">&#169; 2020 Azriel Katzman</p>
             <p class="text-xl xl:text-2xl m-1 xl:m-0 align-text-top">
                 &bull;
-                <a href="" target="_blank"><svg viewBox="0 0 20 20" fill="currentColor" class="inline w-5 h-5 xl:w-6 xl:h-6 hover:text-teal-800">
+                <a href=""><svg viewBox="0 0 20 20" fill="currentColor" class="inline w-5 h-5 xl:w-6 xl:h-6 hover:text-teal-800 cursor-not-allowed">
                     <path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z" clip-rule="evenodd"></path></svg></a>
                 <a href="" target="_blank"><svg viewBox="0 0 448 512" fill="currentColor" class="inline w-5 h-5 xl:w-6 xl:h-6 hover:text-teal-800">
                     <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
