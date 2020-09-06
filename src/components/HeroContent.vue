@@ -1,5 +1,5 @@
 <template>
-   <div class="m-2 p-2 text-center text-teal-400 font-medium shadow-2xl bg-gray-100">
+    <div class="m-2 p-2 text-center text-teal-400 font-medium shadow-2xl bg-gray-100">
         <div class="flex m-2 py-6">
             <img src="@\assets\images\shattered.png" alt="Please appear" class="m-2 inline-block w-40 h-40 xl:self-center rounded-full border-gray-500 border-2">
             <div class="text-left m-2">
