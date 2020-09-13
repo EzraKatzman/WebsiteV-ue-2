@@ -47,5 +47,5 @@ export default {
 </script>
 
 <style>
-  @import "C:/Users/Ezkat/Desktop/Side Projects/WebsiteRedux/website/src/assets/css/tailwind.css";
+  @import "C:/Users/Ezkat/Desktop/Projects/WebsiteRedux/website/src/assets/css/tailwind.css";
 </style>
